@@ -60,13 +60,14 @@ with open('sample1.txt', 'r', encoding='utf8') as file:
         print(f'{line} ', end="")
 ```
 -----------------------------------------------------------
-# Endian
+## Endian
 
-## Big Endian   
+### Big Endian   
 <-높은주소 -----낮은주소->
 
-## Little Endian
+### Little Endian
 <-낮은주소 -----높은주소-> 
+
 -----------------------------------------------------------
 # except
 > 에러문구
